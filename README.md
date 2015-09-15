@@ -7,9 +7,10 @@
 
 example} 송상준 0001
 
-## 이름 / 자기소개
-
-
 [MarkDown 문법]: http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram
 [Git 명령어]: http://blog.outsider.ne.kr/572
 
+## 자기소개
+
+이름 우창균 학번 2011125087 학과 신구대학교 정보통신전공
+남은 한 학기 열심히 하겠습니다.
